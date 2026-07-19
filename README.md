@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 
 <h1 align="center">Hi 👋 I'm Sofien Henchir</h1>
 
@@ -87,7 +87,7 @@ Currently focused on building solutions around:
 
 <div align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sofienhenchir/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
