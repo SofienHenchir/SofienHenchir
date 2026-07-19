@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋 I'm Sofien Henchir</h1>
+
 
 <h3 align="center">
 Software Engineer | Backend • Cloud • AI Engineering
